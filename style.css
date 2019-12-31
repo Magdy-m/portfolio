@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    box-sizing: content-box;
+}
+
+body {
+    margin: 0px;
+    height: 100vp;
+    background-color: azure;
+}
